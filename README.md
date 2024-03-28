@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![STEPHEN5576's GitHub stats](https://github-readme-stats.vercel.app/api?username=STEPHEN5576&show_icons=true&theme=dark)
+
 <!--
 **STEPHEN5576/STEPHEN5576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
