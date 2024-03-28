@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=STEPHEN5576)](https://git.io/streak-stats)
 
 ![STEPHEN5576's GitHub stats](https://github-readme-stats.vercel.app/api?username=STEPHEN5576&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=STEPHEN5576)](https://git.io/streak-stats)
 <!--
 **STEPHEN5576/STEPHEN5576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
