@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=STEPHEN5576&style=flat-square&color=28a745">
+<hr>
+<br>
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronbonnke)](https://github.com/ronbonnke/github-readme-stats)  
 
